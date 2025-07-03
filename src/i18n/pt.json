@@ -1,0 +1,58 @@
+{
+  "home": {
+    "title": "Olá, eu sou Jonas",
+    "subtitle": "Desenvolvedor Fullstack com foco em Back-End",
+    "description": "Estou aqui para ajudar você a construir aplicações incríveis!"
+  },
+  "about": {
+    "title": "Sobre mim",
+    "description": "Sou Jonas Christiano da Silva, desenvolvedor Fullstack com foco em backend e grande interesse por automação, análise de dados e infraestrutura de sistemas.\nMinha principal motivação é criar soluções que otimizem processos, melhorem a experiência do usuário e contribuam diretamente para o crescimento de produtos e equipes.\n\nDesde novembro de 2021, atuo na CYSOURCE, onde exerço múltiplas funções: Líder dos Instrutores, Q&A (Controle de Qualidade) e Suporte ao Cliente.\nEssa experiência me proporcionou uma visão ampla da área de tecnologia educacional, permitindo trabalhar tanto no desenvolvimento técnico quanto na entrega e validação de conteúdo com foco no usuário final.\n\nTenho vivência em projetos voltados para otimização de fluxos de trabalho, melhoria da performance educacional e contribuição em ferramentas de código aberto.\nGosto de aplicar meu conhecimento em Python, JavaScript e automação com APIs, sempre buscando tornar processos mais eficientes e inteligentes.\n\nAtualmente, sigo me especializando em tecnologias voltadas a backend, DevOps e dados, com o objetivo de construir sistemas robustos, escaláveis e de fácil manutenção."
+  },
+  "projects": {
+    "title": "Projetos",
+    "description": "Confira alguns dos meus projetos mais recentes. Estou sempre trabalhando em algo novo, então fique à vontade para explorar!"
+  },
+  "contact": {
+    "title": "Contato",
+    "description": "Gostaria de conversar? Estou sempre aberto a novas oportunidades e colaborações. Sinta-se à vontade para entrar em contato!"
+  },
+  "footer": {
+    "text": "Desenvolvido com ❤️ por Jonas"
+  },
+  "error": {
+    "notFound": "Página não encontrada",
+    "serverError": "Erro interno do servidor"
+  },
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "buttons": {
+    "learnMore": "Saiba mais",
+    "viewProject": "Ver projeto",
+    "sendMessage": "Enviar mensagem"
+  },
+  "messages": {
+    "welcome": "Bem-vindo ao meu portfólio!",
+    "thankYou": "Obrigado por visitar meu site!"
+  },
+  "form": {
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "submit": "Enviar"
+  },
+  "projectsList": [
+    {
+      "id": "trello-automation",
+      "image": "https://example.com/image.jpg",
+      "title": "📌 Automatização de fluxo no Trello",
+      "shortdescription": "Uma breve descrição do projeto.",
+      "description": "Este é um projeto de exemplo que demonstra minhas habilidades em desenvolvimento web. Ele inclui funcionalidades como autenticação de usuários, integração com APIs externas e uma interface amigável.",
+      "technologies": ["Python", "JavaScript", "Django", "React"],
+      "link": ""
+    }
+  ]
+}

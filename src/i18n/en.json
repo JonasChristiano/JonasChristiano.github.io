@@ -1,0 +1,47 @@
+{
+  "home": {
+    "title": "Hi, I'm Jonas",
+    "subtitle": "Fullstack Developer focused on Back-End",
+    "description": "I'm here to help you build amazing applications!"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a developer passionate about technology and always eager to learn more. I have experience in various languages and frameworks, and I love facing new challenges."
+  },
+  "projects": {
+    "title": "Projects",
+    "description": "Check out some of my latest projects. I'm always working on something new, so feel free to explore!"
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Would you like to chat? I'm always open to new opportunities and collaborations. Feel free to get in touch!"
+  },
+  "footer": {
+    "text": "Developed with ❤️ by Jonas"
+  },
+  "error": {
+    "notFound": "Page not found",
+    "serverError": "Internal server error"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "learnMore": "Learn more",
+    "viewProject": "View project",
+    "sendMessage": "Send message"
+  },
+  "messages": {
+    "welcome": "Welcome to my portfolio!",
+    "thankYou": "Thank you for visiting my site!"
+  },
+  "form": {
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Submit"
+  }
+}

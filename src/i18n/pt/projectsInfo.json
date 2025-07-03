@@ -1,0 +1,11 @@
+[
+    {
+      "id": "trello-automation",
+      "image": "https://example.com/image.jpg",
+      "title": "📌 Automatização de fluxo no Trello",
+      "shortdescription": "Uma breve descrição do projeto.",
+      "description": "Este é um projeto de exemplo que demonstra minhas habilidades em desenvolvimento web. Ele inclui funcionalidades como autenticação de usuários, integração com APIs externas e uma interface amigável.",
+      "technologies": ["Python", "JavaScript", "Django", "React"],
+      "link": ""
+    }
+]
